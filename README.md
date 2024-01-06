@@ -9,7 +9,7 @@
 
 
 
-Hello, I'm **Youssef BULAHIA**. I'm skilled in **Finance** and **Data Science** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **EHTP**, and current student enrolled in **Msc Quantitative Finance** at **Paris1 Panthéon-Sorbonne University**.
+Hello, I'm **Youssef BULAHIA**. I'm skilled in **Finance** and **Data Science** and specifically passionate about **Quantitative Finance**, double graduate of **ECOLE DES MINES** and **Ecole Hassania**, and current student enrolled in **Msc Quantitative Finance** at **Sorbonne University**.
 
 
   ## Tools 
